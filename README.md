@@ -2,7 +2,7 @@
 Generist Project: Resources + Examples  
 
 _Projects_   
-  **Gen Art Studio** @ the Met: tools for making art from Met data  (gen.studio)  /n
+  **Gen Art Studio** @ the Met: tools for making art from Met data  (gen.studio)  <br>
   **Project ECHO**: legal templates for generist art
   
 _Resources_
